@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #0007b2;
+}
+
+header{
+    display: flex;
+    padding: 3vh 10vw;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+
+.first{
+    padding: 3vh 10vw;
+    display: flex;
+    gap: 20px;
+}
+
+a{
+    color: yellow;
+}
